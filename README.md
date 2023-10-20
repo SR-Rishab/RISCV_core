@@ -54,3 +54,25 @@
   ![image](https://github.com/SR-Rishab/RISCV_core/assets/107171044/a265441f-d867-416f-93d8-a26b6895afe6)
 
 </details>
+
+## RV Day-4 Basic RISC-V CPU micro-architecture
+<details>
+  <summmary>Introduction to simple RISC-V micro-architecture</summmary>
+The below diagram is a micro-architechture for a RISC-V implementation.
+![image](https://github.com/SR-Rishab/RISCV_core/assets/107171044/81034c7d-2ec6-4c5d-9ef6-1836bcf6cc18)
+
+  It consists of 
+  - **Program counter**- Points to the instruction which to be executed.
+  - **Instruction memory**- Stores the program instructions, it outputs the intruction to be executed.
+  - **Decoder**- Decodes the instructions which can be present in different formats eg: I-format,R-format,U-format.
+  - **Register file read**-Obtains the value present in the registers specified by the instruction.
+  - **ALU**-For performing arithematic operations.
+  - **Registers file write**-To perform write operations on registers.
+  - **Memory**
+</details>
+ <details>
+      <summary>Fetch and decode</summary>
+    </details>
+   <details>
+      <summary>RISC-V control logic</summary>
+    </details>
