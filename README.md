@@ -43,6 +43,8 @@
 
   ### 1. Pipeline through pythogorean example
 
+  ![image](https://github.com/SR-Rishab/RISCV_core/assets/107171044/70d2003a-7d53-422f-8b5b-f0176363cafd)
+
   ![image](https://github.com/SR-Rishab/RISCV_core/assets/107171044/d40fbf3c-2141-4e47-a4b4-2ffe0916f4bc)
 
   ### 2. Pipeline implementation
